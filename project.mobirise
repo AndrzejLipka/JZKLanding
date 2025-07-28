@@ -48,8 +48,8 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "h6fajihx9s",
+    "favicon": "@PROJECT_PATH@/assets/images/anatomia-relacji-niebieski.png",
+    "mbrsiteDomain": "zu3vzkzpmi",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
